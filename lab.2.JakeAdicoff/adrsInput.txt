@@ -1,0 +1,20 @@
+Jake,Adicoff, 208-721-7285, 49 Lane Ranch Rd. Ketchum ID, 5,16,1995
+Ralph,Wreckit, 505-647-9530, 387 Pine Ridge Ave. Baltimore MD, 4,13,1935
+Ethan,Zhou, 612-569-4206, 36 Main St. Norwood MN, 5,1,1996
+Hannah,Miller, 802-546-3728, 644 Highland Dr. Brattleboro VT, 7,31,1994
+Sam,Shaheen, 612-229-0850, 2044 Penn Ave. N. Minneapolis MN, 1,13,1996 
+Hanna,Maller, 802-477-2193, 455 Elm St. Newport VT, 2,5,1993
+Marshal,Landrum, 612-489-9969, 111 Shurburn Ave. Hopkinton MI, 6,6,1992
+Hannah,Marshall, 800-867-5309, 145 Economou Rd. Huntington VT, 8,9,1994
+Tyler,DeAngelis, 207-592-3898, 32 Sucktastic Blvd. Brunswick ME, 5,6,1993
+Amanda,Hugandkiss, 304-272-9593, 928 McKeen St. Las Vegas NV, 2,5,1974
+Emily,Rockperson, 207-456-2303, 29 Garnet Schist Blvd. Topsham ME, 4,8,1982
+Willie,Adicoff, 208-720-2858, 22 Main St. Rexburg ID, 9,14,1991
+Julia,Syferth, 433-683-5554, 126 Hill St. Bennington VT, 7,3,1988
+Ellie,Hands, 390-234-2938, 58 Pine St. St. Paul MN, 6,9,1996
+Tom,Ezquerro, 716-698-8273, 106 South Shore Blvd. Lackawanna NY, 5,12,1996
+Sue,Conner, 208-720-6204, 49 Lane Ranch Rd. Ketchum ID, 5,26,1969
+Sam,Adicoff, 208-720-6205, 49 Lane Ranch Rd. Ketchum ID, 2,5,1967
+Ty,Reinemann, 208-720-5944, 77 Lincoln St. Sun Valley ID, 7,14,1995
+Stephen,Pfeiffer, 208-720-6748, 15 Happy St. Hailey ID, 12,22,1995
+Juan,Smith, 437-727-6554, 67 Acorn St. New York NY, 8,4,1987
